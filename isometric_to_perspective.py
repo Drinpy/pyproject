@@ -38,3 +38,5 @@ def isometric_to_perspective(pixel_art_isometric):
 
     plt.savefig("pixel_art_perspectiva_3d.png")
     plt.show()
+
+#Esse código serviu para me dar uma noção melhor de como trabalhar com alteração de pixels
